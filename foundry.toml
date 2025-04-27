@@ -1,0 +1,9 @@
+[profile.default]
+solc_version = "0.8.28"
+
+[rpc]
+url = "https://testnet.lisk.io/api"
+private_key = "$PRIVATE_KEY"
+
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
